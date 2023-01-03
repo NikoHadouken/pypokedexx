@@ -1,4 +1,6 @@
-# Installation
+# PyPokédexx Cli
+
+## Installation
 
 Install package and CLI tool on system.
 
@@ -6,7 +8,7 @@ Install package and CLI tool on system.
 pip install .
 ```
 
-# Development
+## Development
 
 ### Enter Pipenv Shell
 
@@ -18,4 +20,18 @@ pipenv shell
 
 ```sh
 pip install -e .
+```
+
+### Invoke CLI
+
+via cli
+
+```sh
+pypokedexx
+```
+
+via python
+
+```sh
+python src/pypokedexx
 ```
