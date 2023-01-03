@@ -35,3 +35,13 @@ via python
 ```sh
 python src/pypokedexx
 ```
+
+### Run Unit Tests
+
+```sh
+pipenv run test
+```
+
+### VS Code
+
+- use command `Python: Select Interpreter` to select correct python version from pipenv
